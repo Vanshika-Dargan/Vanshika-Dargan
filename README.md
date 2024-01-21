@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on [Self-Drivng-Car-Simulator](https://github.com/Vanshika-Dargan/Self-Driving-Car-Simulator)
 
-- 🌱 I’m currently learning **Python and Django, PHP**
+- 🌱 I’m currently learning **SpringBoot**
 
 - 💬 Ask me about **React, Javascript, DSA**
 
 - 📫 How to reach me **vanshikadargan.vd@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_l0W0pBwFYE278rmHME3yoiRN6YhXwyw/view?usp=sharing](https://drive.google.com/file/d/1_l0W0pBwFYE278rmHME3yoiRN6YhXwyw/view?usp=sharing)
 
 - ⚡ Fun fact **I think I can type faster than I can write**
 
