@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanshika</h1>
-<h3 align="center">An enthusiastic web developer from India</h3>
+<h3 align="center">An full web developer from India</h3>
 
 
   <img align="left" src="https://media.giphy.com/media/av6FFEodfp1ExFNW9k/giphy.gif" alt="GIF">
